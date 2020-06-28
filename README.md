@@ -10,4 +10,4 @@ Using Bootstrap CSS framework this website will have:
 My project can be seen here: https://achampigny4.github.io/AlissaC-ResponsivePortfolio/
 
 <!-- screen shot of home page -->
-<img src="screeshot.jpg" style="margin-right: 10px; width: 300px" alt="Screenshot of About me page">
+<img src="./screeshot.jpg" style="margin-right: 10px; width: 300px" alt="Screenshot of About me page">

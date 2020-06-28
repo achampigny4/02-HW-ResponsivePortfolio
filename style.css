@@ -6,3 +6,10 @@ body {
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   grid-gap: .5rem;
 }
+
+
+.space { 
+  margin:100;
+  padding:100;
+  height:150px;
+} 
